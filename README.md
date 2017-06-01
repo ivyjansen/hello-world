@@ -10,3 +10,4 @@ Soms wil ik teveel doen.
 
 ## Een tweede wijziging
 
+[Link naar een csv file](data/Residuals.csv)
